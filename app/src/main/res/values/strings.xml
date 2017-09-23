@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ZalandoSinglePage</string>
+    <string name="zalando_background">Zalando Background</string>
+    <string name="zalando_logo">Zalando Logo</string>
+    <string name="zalando_description">Zalando SE is a German electronic commerce company seated in Berlin. The company maintains a cross-platform online store that sells shoes, clothing and other fashion items.</string>
+    <string name="contact_us">Contact US:</string>
+    <string name="zalando_phone">+20 0101184041</string>
+    <string name="zalando_mail">yosefgamal0032@gmail.com</string>
+    <string name="zalando_web">https://www.zalando.co.uk</string>
+</resources>
